@@ -1,0 +1,386 @@
+
+Aardwolf	Proteles cristatus
+Admiral, indian red	Vanessa indica
+Adouri (unidentified)	unavailable
+African black crake	Limnocorax flavirostra
+African buffalo	Snycerus caffer
+African bush squirrel	Paraxerus cepapi
+African clawless otter	Aonyx capensis
+African darter	Anhinga rufa
+African elephant	Loxodonta africana
+African fish eagle	Haliaetus vocifer
+African ground squirrel (unidentified)	Xerus sp.
+African jacana	Actophilornis africanus
+African lion	Panthera leo
+African lynx	Felis caracal
+African pied wagtail	Motacilla aguimp
+African polecat	Ictonyx striatus
+African porcupine	Hystrix cristata
+African red-eyed bulbul	Pycnonotus nigricans
+African skink	Mabuya spilogaster
+African snake (unidentified)	unavailable
+African wild cat	Felis silvestris lybica
+African wild dog	Lycaon pictus
+Agama lizard (unidentified)	Agama sp.
+Agile wallaby	Macropus agilis
+Agouti	Dasyprocta leporina
+Albatross, galapagos	Diomedea irrorata
+Albatross, waved	Diomedea irrorata
+Alligator, american	Alligator mississippiensis
+Alligator, mississippi	Alligator mississippiensis
+Alpaca	Lama pacos
+Amazon parrot (unidentified)	Amazona sp.
+American Virginia opossum	Didelphis virginiana
+American alligator	Alligator mississippiensis
+American badger	Taxidea taxus
+American beaver	Castor canadensis
+American bighorn sheep	Ovis canadensis
+American bison	Bison bison
+American black bear	Ursus americanus
+American buffalo	Bison bison
+American crow	Corvus brachyrhynchos
+American marten	Martes americana
+American racer	Coluber constrictor
+American woodcock	Scolopax minor
+Anaconda (unidentified)	Eunectes sp.
+Andean goose	Chloephaga melanoptera
+Ant (unidentified)	unavailable
+Anteater, australian spiny	Tachyglossus aculeatus
+Anteater, giant	Myrmecophaga tridactyla
+Antechinus, brown	Antechinus flavipes
+Antelope ground squirrel	Ammospermophilus nelsoni
+Antelope, four-horned	Tetracerus quadricornis
+Antelope, roan	Hippotragus equinus
+Antelope, sable	Hippotragus niger
+Arboral spiny rat	Echimys chrysurus
+Arctic fox	Alopex lagopus
+Arctic ground squirrel	Spermophilus parryii
+Arctic hare	Lepus arcticus
+Arctic lemming	Dicrostonyx groenlandicus
+Arctic tern	Sterna paradisaea
+Argalis	Ovis ammon
+Armadillo, common long-nosed	Dasypus novemcinctus
+Armadillo, giant	Priodontes maximus
+Armadillo, nine-banded	Dasypus novemcinctus
+Armadillo, seven-banded	Dasypus septemcincus
+Asian elephant	Elephas maximus bengalensis
+Asian false vampire bat	Megaderma spasma
+Asian foreset tortoise	Manouria emys
+Asian lion	Panthera leo persica
+Asian openbill	Anastomus oscitans
+Asian red fox	Vulpes vulpes
+Asian water buffalo	Bubalus arnee
+Asian water dragon	Physignathus cocincinus
+Asiatic jackal	Canis aureus
+Asiatic wild ass	Equus hemionus
+Ass, asiatic wild	Equus hemionus
+Australian brush turkey	Alectura lathami
+Australian magpie	Gymnorhina tibicen
+Australian masked owl	Tyto novaehollandiae
+Australian pelican	Pelecanus conspicillatus
+Australian sea lion	Neophoca cinerea
+Australian spiny anteater	Tachyglossus aculeatus
+Avocet, pied	Recurvirostra avosetta
+Azara's zorro	Pseudalopex gymnocercus
+
+
+
+Baboon, chacma	Papio ursinus
+Baboon, gelada	Theropithecus gelada
+Baboon, olive	Papio cynocephalus
+Baboon, savanna	Papio cynocephalus
+Baboon, yellow	Papio cynocephalus
+Badger, american	Taxidea taxus
+Badger, eurasian	Meles meles
+Badger, european	Meles meles
+Badger, honey	Mellivora capensis
+Bahama pintail	Anas bahamensis
+Bald eagle	Haliaeetus leucocephalus
+Baleen whale	Eubalaena australis
+Banded mongoose	Mungos mungo
+Bandicoot, long-nosed	Perameles nasuta
+Bandicoot, short-nosed	Isoodon obesulus
+Bandicoot, southern brown	Isoodon obesulus
+Barasingha deer	Cervus duvauceli
+Barbet, black-collared	Lybius torquatus
+Barbet, crested	Trachyphonus vaillantii
+Barbet, levaillant's	Trachyphonus vaillantii
+Bare-faced go away bird	Lorythaixoides concolor
+Barking gecko	Phylurus milli
+Barrows goldeneye	Bucephala clangula
+Bat, asian false vampire	Megaderma spasma
+Bat, little brown	Myotis lucifugus
+Bat, madagascar fruit	Pteropus rufus
+Bat-eared fox	Otocyon megalotis
+Bateleur eagle	Terathopius ecaudatus
+Bear, american black	Ursus americanus
+Bear, black	Ursus americanus
+Bear, grizzly	Ursus arctos
+Bear, polar	Ursus maritimus
+Bear, sloth	Melursus ursinus
+Beaver, american	Castor canadensis
+Beaver, eurasian	Castor fiber
+Beaver, european	Castor fiber
+Beaver, north american	Castor canadensis
+Bee-eater (unidentified)	Merops sp.
+Bee-eater, carmine	Merops nubicus
+Bee-eater, nubian	Merops nubicus
+Bee-eater, white-fronted	Merops bullockoides
+Beisa oryx	Oryx gazella
+Bengal vulture	Gyps bengalensis
+Bennett's wallaby	Macropus rufogriseus
+Bent-toed gecko	Cyrtodactylus louisiadensis
+Bettong, brush-tailed	Bettongia penicillata
+Bird (unidentified)	unavailable
+Bird, bare-faced go away	Lorythaixoides concolor
+Bird, black-throated butcher	Cracticus nigroagularis
+Bird, magnificent frigate	Fregata magnificans
+Bird, pied butcher	Cracticus nigroagularis
+Bird, red-billed tropic	Phaethon aethereus
+Bird, secretary	Sagittarius serpentarius
+Bison, american	Bison bison
+Black and white colobus	Colobus guerza
+Black bear	Ursus americanus
+Black curlew	Haematopus ater
+Black kite	Milvus migrans
+Black rhinoceros	Diceros bicornis
+Black spider monkey	Ateles paniscus
+Black swan	Cygnus atratus
+Black vulture	Aegypius tracheliotus
+Black-backed jackal	Canis mesomelas
+Black-backed magpie	Gymnorhina tibicen
+Black-capped capuchin	Cebus apella
+Black-capped chickadee	Parus atricapillus
+Black-cheeked waxbill	Estrilda erythronotos
+Black-collared barbet	Lybius torquatus
+Black-crowned crane	Balearica pavonina
+Black-crowned night heron	Nycticorax nycticorax
+Black-eyed bulbul	Pycnonotus barbatus
+Black-faced kangaroo	Macropus fuliginosus
+Black-footed ferret	Mustela nigripes
+Black-fronted bulbul	Pycnonotus nigricans
+Black-necked stork	Ephippiorhynchus mycteria
+Black-tailed deer	Odocoileus hemionus
+Black-tailed prairie dog	Cynomys ludovicianus
+Black-tailed tree creeper	Climacteris melanura
+Black-throated butcher bird	Cracticus nigroagularis
+Black-throated cardinal	Paroaria gularis
+Black-winged stilt	Himantopus himantopus
+Blackbird, red-winged	Agelaius phoeniceus
+Blackbuck	Antilope cervicapra
+Blackish oystercatcher	Haematopus ater
+Blacksmith plover	Vanellus armatus
+Bleeding heart monkey	Theropithecus gelada
+Blesbok	Damaliscus dorcas
+Bleu, blue-breasted cordon	Uraeginthus angolensis
+Bleu, red-cheeked cordon	Uraeginthus bengalus
+Blue and gold macaw	Ara ararauna
+Blue and yellow macaw	Ara ararauna
+Blue catfish	Ictalurus furcatus
+Blue crane	Anthropoides paradisea
+Blue duck	Hymenolaimus malacorhynchus
+Blue fox	Alopex lagopus
+Blue peacock	Pavo cristatus
+Blue racer	Coluber constrictor foxii
+Blue shark	Prionace glauca
+Blue waxbill	Uraeginthus angolensis
+Blue wildebeest	Connochaetus taurinus
+Blue-breasted cordon bleu	Uraeginthus angolensis
+Blue-faced booby	Sula dactylatra
+Blue-footed booby	Sula nebouxii
+Blue-tongued lizard	Tiliqua scincoides
+Blue-tongued skink	Tiliqua scincoides
+Boa, columbian rainbow	Epicrates cenchria maurus
+Boa, cook's tree	Corallus hortulanus cooki
+Boa, emerald green tree	Boa caninus
+Boa, malagasy ground	Acrantophis madagascariensis
+Boa, mexican	Boa constrictor mexicana
+Boar, wild	Sus scrofa
+Boat-billed heron	Cochlearius cochlearius
+Bobcat	Felis rufus
+Bohor reedbuck	Redunca redunca
+Bonnet macaque	Macaca radiata
+Bontebok	Damaliscus dorcas
+Booby, blue-faced	Sula dactylatra
+Booby, blue-footed	Sula nebouxii
+Booby, masked	Sula dactylatra
+Bottle-nose dolphin	Tursiops truncatus
+Boubou, southern	Laniarius ferrugineus
+Brazilian otter	Pteronura brasiliensis
+Brazilian tapir	Tapirus terrestris
+Brindled gnu	Connochaetus taurinus
+Brocket, brown	Mazama gouazoubira
+Brocket, red	Mazama americana
+Brolga crane	Grus rubicundus
+Brown and yellow marshbird	Pseudoleistes virescens
+Brown antechinus	Antechinus flavipes
+Brown brocket	Mazama gouazoubira
+Brown capuchin	Cebus apella
+Brown hyena	Hyaena brunnea
+Brown lemur	Lemur fulvus
+Brown pelican	Pelecanus occidentalis
+Brush-tailed bettong	Bettongia penicillata
+Brush-tailed phascogale	Phascogale tapoatafa
+Brush-tailed rat kangaroo	Bettongia penicillata
+Buffalo, african	Snycerus caffer
+Buffalo, american	Bison bison
+Buffalo, asian water	Bubalus arnee
+Buffalo, wild water	Bubalus arnee
+Bulbul, african red-eyed	Pycnonotus nigricans
+Bulbul, black-eyed	Pycnonotus barbatus
+Bulbul, black-fronted	Pycnonotus nigricans
+Bunting, crested	Melophus lathami
+Burchell's gonolek	Laniaurius atrococcineus
+Burmese black mountain tortoise	Manouria emys
+Burmese brown mountain tortoise	Manouria emys
+Burrowing owl	Speotyte cuniculata
+Bush dog	Speothos vanaticus
+Bushbaby, large-eared	Galago crassicaudataus
+Bushbuck	Tragelaphus scriptus
+Bushpig	Potamochoerus porcus
+Bustard, denham's	Neotis denhami
+Bustard, kori	Choriotis kori
+Bustard, stanley	Neotis denhami
+Butterfly (unidentified)	unavailable
+Butterfly, canadian tiger swallowtail	Papilio canadensis
+Butterfly, tropical buckeye	Junonia genoveua
+Buttermilk snake	Coluber constrictor
+
+
+
+
+Land iguana	Conolophus subcristatus
+Langur, common	Semnopithecus entellus
+Langur, gray	Semnopithecus entellus
+Langur, hanuman	Semnopithecus entellus
+Lappet-faced vulture	Aegypius tracheliotus
+Lapwing (unidentified)	Vanellus sp.
+Lapwing, southern	Vanellus chilensis
+Large cormorant	Phalacrocorax carbo
+Large-eared bushbaby	Galago crassicaudataus
+Lark, horned	Eremophila alpestris
+Laughing dove	Streptopelia senegalensis
+Laughing kookaburra	Dacelo novaeguineae
+Lava gull	Larus fuliginosus
+Leadbeateri's ground hornbill	Bucorvus leadbeateri
+Least chipmunk	Eutamias minimus
+Lechwe, kafue flats	Kobus leche robertsi
+Legaan, Monitor (unidentified)	Varanus sp.
+Legaan, ground	Varanus sp.
+Legaan, water	Varanus salvator
+Lemming, arctic	Dicrostonyx groenlandicus
+Lemming, collared	Dicrostonyx groenlandicus
+Lemur, brown	Lemur fulvus
+Lemur, grey mouse	Microcebus murinus
+Lemur, lesser mouse	Microcebus murinus
+Lemur, ring-tailed	Lemur catta
+Lemur, sportive	Lepilemur rufescens
+Leopard	Panthera pardus
+Leopard, indian	Panthera pardus
+Lesser double-collared sunbird	Nectarinia chalybea
+Lesser flamingo	Phoeniconaias minor
+Lesser masked weaver	Ploceus intermedius
+Lesser mouse lemur	Microcebus murinus
+Levaillant's barbet	Trachyphonus vaillantii
+Lilac-breasted roller	Coracias caudata
+Lily trotter	Actophilornis africanus
+Lion, african	Panthera leo
+Lion, asian	Panthera leo persica
+Lion, australian sea	Neophoca cinerea
+Lion, california sea	Zalophus californicus
+Lion, galapagos sea	Zalophus californicus
+Lion, mountain	Felis concolor
+Lion, south american sea	Otaria flavescens
+Lion, southern sea	Otaria flavescens
+Lion, steller sea	Eumetopias jubatus
+Lion, steller's sea	Eumetopias jubatus
+Little blue penguin	Eudyptula minor
+Little brown bat	Myotis lucifugus
+Little brown dove	Streptopelia senegalensis
+Little cormorant	Phalacrocorax niger
+Little grebe	Tachybaptus ruficollis
+Little heron	Butorides striatus
+Lizard (unidentified)	unavailable
+Lizard, blue-tongued	Tiliqua scincoides
+Lizard, collared	Crotaphytus collaris
+Lizard, desert spiny	Sceloporus magister
+Lizard, frilled	Chlamydosaurus kingii
+Lizard, giant girdled	Cordylus giganteus
+Lizard, goanna	Varanus sp.
+Lizard, mexican beaded	Heloderma horridum
+Llama	Lama glama
+Long-billed cockatoo	Cacatua tenuirostris
+Long-billed corella	Cacatua tenuirostris
+Long-crested hawk eagle	Lophoaetus occipitalis
+Long-finned pilot whale	Globicephala melas
+Long-necked turtle	Chelodina longicollis
+Long-nosed bandicoot	Perameles nasuta
+Long-tailed jaeger	Stercorarius longicausus
+Long-tailed skua	Stercorarius longicausus
+Long-tailed spotted cat	Felis wiedi or Leopardus weidi
+Lorikeet, scaly-breasted	Trichoglossus chlorolepidotus
+Loris, slender	Loris tardigratus
+Lory, rainbow	Trichoglossus haematodus moluccanus
+Lourie, grey	Lorythaixoides concolor
+Lynx, african	Felis caracal
+
+
+
+
+Tailless tenrec	Tenrec ecaudatus
+Tamandua, southern	Tamandua tetradactyla
+Tammar wallaby	Macropus eugenii
+Tapir, brazilian	Tapirus terrestris
+Tarantula	Lasiodora parahybana
+Tarantula, salmon pink bird eater	Lasiodora parahybana
+Tasmanian devil	Sarcophilus harrisii
+Tawny eagle	Anitibyx armatus
+Tawny frogmouth	Podargus strigoides
+Tayra	Eira barbata
+Teal, hottentot	Anas punctata
+Tenrec, tailless	Tenrec ecaudatus
+Tern, arctic	Sterna paradisaea
+Tern, royal	Thalasseus maximus
+Tern, white-winged	Chlidonias leucopterus
+Tern, white-winged black	Chlidonias leucopterus
+Thirteen-lined squirrel	Spermophilus tridecemlineatus
+Thomson's gazelle	Gazella thompsonii
+Thrasher, curve-billed	Toxostoma curvirostre
+Three-banded plover	Charadrius tricollaris
+Tiger	Panthera tigris
+Tiger cat	Dasyurus maculatus
+Tiger snake	Notechis semmiannulatus
+Timber wolf	Canis lupus lycaon
+Tinamou, elegant crested	Eudromia elegans
+Toddy cat	Paradoxurus hermaphroditus
+Tokay gecko	Gekko gecko
+Topi	Damaliscus lunatus
+Tortoise, asian foreset	Manouria emys
+Tortoise, burmese black mountain	Manouria emys
+Tortoise, burmese brown mountain	Manouria emys
+Tortoise, desert	Gopherus agassizii
+Tortoise, galapagos	Geochelone elephantopus
+Tortoise, indian star	Geochelone elegans
+Tortoise, radiated	Geochelone radiata
+Toucan, red-billed	Ramphastos tucanus
+Toucan, white-throated	Ramphastos tucanus
+Tree porcupine	Coendou prehensilis
+Tropical buckeye butterfly	Junonia genoveua
+Trotter, lily	Actophilornis africanus
+Trumpeter swan	Cygnus buccinator
+Trumpeter, dark-winged	Psophia viridis
+Trumpeter, green-winged	Psophia viridis
+Tsessebe	Damaliscus lunatus
+Turaco, violet-crested	Tauraco porphyrelophus
+Turkey vulture	Cathartes aura
+Turkey, australian brush	Alectura lathami
+Turkey, common	Meleagris gallopavo
+Turkey, wild	Meleagris gallopavo
+Turtle (unidentified)	unavailable
+Turtle, eastern box	Terrapene carolina
+Turtle, long-necked	Chelodina longicollis
+Turtle, snake-necked	Chelodina longicollis
+Two-banded monitor	Varanus salvator
+Two-toed sloth	Choloepus hoffmani
+Two-toed tree sloth	Choloepus hoffmani
+Tyrant flycatcher	Myiarchus tuberculifers
